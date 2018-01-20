@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
+*{font-family: sans-serif;}
+
+h1{
+	line-height:180%;
+	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+	color: #ff00ff;
+	font-size: 60px;
+
+	background-image:url("giphy.gif");
+}
+
+h3{
+	text-align: center;
+	font-size: 70px;
+}
+
+h4{
+	font-size: 60px;
+  	line-height:100px;
+  	text-align: center;
+}
+ol{
+	font-size: 40px;
+  	line-height:100px;
+  	text-align: center;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+}
+
+
+
